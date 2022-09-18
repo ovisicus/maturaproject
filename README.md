@@ -17,3 +17,6 @@
       - experimented with gravity, I can turn it off and change its power however I dont think I´ll be able to change its direction within a level
   planned for next week:
       - experimenting within the engine, writing down level ideas to experiment on and maybe sketching the first level
+
+# 12.9 -
+because i will not be able to work on my project between next friday and the holidays i will report this and the next week together on thursday. 
