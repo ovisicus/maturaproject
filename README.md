@@ -40,3 +40,6 @@
   plans for next week:
       - implementing the structure of my game.
  
+# 10.10 - 16.10.
+
+I didn't work on anything because I spent the first half of the week in london and got sick afterwards
