@@ -43,3 +43,13 @@
 # 10.10 - 16.10.
 
 I didn't work on anything because I spent the first half of the week in london and got sick afterwards
+
+# 17.10 - 23.10.2022 
+  method: 
+      - blender
+      - online research
+  main achievements:
+      - creation and organization of an unreal engine game file
+      - imported the sheep into my game file
+  plans for next week:
+      - beginning with implementing the game's logic
