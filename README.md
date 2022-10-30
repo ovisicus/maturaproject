@@ -53,3 +53,6 @@ I didn't work on anything because I spent the first half of the week in london a
       - imported the sheep into my game file
   plans for next week:
       - beginning with implementing the game's logic
+
+#24.10 - 30.10.2022
+  I didnt work a lot because of halloween and in the time i spent on the project i went down a wrong path
