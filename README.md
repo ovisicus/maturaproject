@@ -57,8 +57,16 @@ I didn't work on anything because I spent the first half of the week in london a
 #24.10 - 30.10.2022
   I didnt work a lot because of halloween and in the time i spent on the project i went down a wrong path
 
-#31.10-6.11.2022
+#31.10 - 6.11.2022
   main achievements:
       - implementation of the sheep's AI and walking animation
   plans for next week:
-      -implementation of the shout function and creation of a first small level.
+      - implementation of the shout function and creation of a first small level.
+      
+#7.11. - 13.11.2022
+  main achievements:
+      - SHOUT!(it works)
+  plans for next week:
+      - gathering objects to build my levels and sketching some maps
+      or 
+      - tackling the online multiplayer system
