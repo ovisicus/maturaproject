@@ -77,4 +77,12 @@ I didn't work on anything because I spent the first half of the week in london a
   plans for next week:
       - gathering objects to build my levels and sketching some maps
       - implementing an online multiplayer system
+      
+# 21.11. - 5.12.2022 (2 weeks)
+  main achievements:
+      - level sketches
+      - meeting
+  plans for next week:
+      - creating the first level
+
 
