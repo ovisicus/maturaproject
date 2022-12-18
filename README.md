@@ -92,5 +92,11 @@ I didn't work on anything because I spent the first half of the week in london a
       - testing the first level
       - creating morw levels
 
+# 12.12. - 18.12.2022
+  main achievements:
+      - created 2 more levels
+  plans for next week:
+      - decorating my levels
+      - maybe adding another level
 
 
