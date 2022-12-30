@@ -99,4 +99,11 @@ I didn't work on anything because I spent the first half of the week in london a
       - decorating my levels
       - maybe adding another level
 
+# 19.12. - 30.12.2022
+  main achievements:
+      - implemented a gate through which only sheep can pass and a fence over which the players can jump
+      - added another level
+      - decorated all the levels
+  plans for tomorrow(in an attempt to hault my procrastination a little):
+      - creating an outline for my paper
 
